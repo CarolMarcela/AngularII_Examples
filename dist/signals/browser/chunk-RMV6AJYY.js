@@ -1,0 +1,2 @@
+import{l as p}from"./chunk-SQJOW4CT.js";import{Ha as c,Sa as m,fb as o,ga as r,gb as i,tb as a,vb as s,yb as l}from"./chunk-A455DTG6.js";var C=(()=>{let e=class e{constructor(){this.count=m(0)}};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=r({type:e,selectors:[["app-signal-example2"]],standalone:!0,features:[l],decls:4,vars:1,template:function(t,u){t&1&&(o(0,"h2"),a(1,"Ejemplo 2 - Auto increment count"),i(),o(2,"span"),a(3),i()),t&2&&(c(3),s(" Count: ",u.count(),`
+`))},dependencies:[p],changeDetection:0});let n=e;return n})();export{C as default};

@@ -1,0 +1,3 @@
+import './polyfills.server.mjs';
+import{n as p}from"./chunk-SJWONVU4.mjs";import{Fa as c,Qa as m,ca as r,db as o,eb as i,rb as a,tb as s,wb as l}from"./chunk-XZILFW5L.mjs";import"./chunk-VVCT4QZE.mjs";var C=(()=>{let e=class e{constructor(){this.count=m(0)}};e.\u0275fac=function(t){return new(t||e)},e.\u0275cmp=r({type:e,selectors:[["app-signal-example2"]],standalone:!0,features:[l],decls:4,vars:1,template:function(t,u){t&1&&(o(0,"h2"),a(1,"Ejemplo 2 - Auto increment count"),i(),o(2,"span"),a(3),i()),t&2&&(c(3),s(" Count: ",u.count(),`
+`))},dependencies:[p],changeDetection:0});let n=e;return n})();export{C as default};

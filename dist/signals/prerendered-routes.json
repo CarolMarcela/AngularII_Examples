@@ -1,0 +1,12 @@
+{
+  "routes": [
+    "/",
+    "/signal-ejemplo1",
+    "/signal-ejemplo2",
+    "/signal-ejemplo3",
+    "/signal-ejemplo4",
+    "/signal-ejemplo5",
+    "/signal-ejemplo6",
+    "/signal-ejemplo7"
+  ]
+}
